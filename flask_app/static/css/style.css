@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+div{
+	width: 800px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+th{
+	color: #ffc107;
+}
+td, tr{
+	text-align: center;
+}
